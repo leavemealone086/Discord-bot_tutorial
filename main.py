@@ -418,4 +418,4 @@ async def skip(ctx):
     await ctx.send(f'**`{ctx.author}`**: Skipped the song!')
 
 
-bot.run('ODcwNzE4NjgwMjQ4NTEyNTI0.GG14Nc.-kkInOyyc0ctqawcezjTnuw1rW4SkJFjv43nL0')
+bot.run('TOKEN_Discord')
